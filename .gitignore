@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+readings.db
+backups/
+powerbi_data.csv
+powerbi_data.csv.tmp
+.powerbi_push_state
